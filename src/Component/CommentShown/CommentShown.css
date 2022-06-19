@@ -1,0 +1,44 @@
+.comment-section{
+    height: 100%;
+    width: 100%;
+    margin-left: 32rem;
+    /* display: grid; */
+    margin-top: -25rem;
+    /* background: #fff; */
+ 
+}
+.comment-list{
+    width: 30rem;
+    /* background: #fff; */
+    height:auto;
+    margin-top: 2rem;
+    margin-bottom: -3rem;
+    
+}
+
+.comments{
+      /* background: #fff; */
+    list-style: none;
+    /* background: #fff; */
+    margin-bottom: 4rem;
+}
+
+.comments li{
+    background-color: #fff;
+    margin: 7px;
+    border-radius: 10px;
+    height: 2rem;
+    position: relative;
+    
+}
+
+.comments li:first-child {
+    margin-left: 0;
+}
+
+.gif-comment{
+    width:3rem;
+    height: 5rem;
+    margin-left: 3rem;
+    margin-top: 10rem;
+}

@@ -1,0 +1,67 @@
+.body-section {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    
+}
+
+.header-section {
+    /* background-color: #fff; */
+    width: 25rem;
+    height: 40rem;
+    margin-top: 3rem;
+   
+}
+
+.header{
+    height: 2.5rem;
+    width: 25rem;
+    background: #ABC0F3;
+    border-radius: 10px;
+}
+
+
+
+.header-buttons{
+    background: #ABC0F3;
+    width: 33.3%;
+    font-size: 10px;
+    overflow: hidden; 
+     margin: 0;
+    border: none;
+}
+
+.header-buttons h6{
+    background: #ABC0F3;
+}
+
+.input-section {
+    width: 25rem;
+    margin-top: 1rem;
+    height: 10rem;
+}
+
+input {
+    background: #FFF;
+    border-radius: 10px;
+}
+
+.bottom-buttons button{
+    width: 5rem;
+    height: 2rem;
+    margin-top: .5rem;
+    
+}
+
+.btn-info {
+    color: #fff;
+    background-color: #17a2b8;
+    margin-left: 15rem;
+    border-color: #17a2b8;
+}
+
+
+
